@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Practice.01.cpp" />
     <ClCompile Include="Practice.02.cpp" />
+    <ClCompile Include="Practice.03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
