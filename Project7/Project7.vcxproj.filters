@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Scanf_practice.c">
+    <ClCompile Include="Loop_while.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
